@@ -29,7 +29,7 @@ public class printStar1 {
 			prt_star(w);
 			System.out.println();
 		}
-		
+		// ÃÑ º° °¹¼ö - ( ÇöÀç±îÁö ÂïÀº º° °¹¼ö )
 		prt_star(n-((i-1)*w));
 		
 	}

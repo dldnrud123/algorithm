@@ -16,7 +16,7 @@ public class count_number {
 		int count = 0;
 		
 		while(i <= num){
-			i*=10;
+			i*=10; 
 			count ++;
 		}
 		
